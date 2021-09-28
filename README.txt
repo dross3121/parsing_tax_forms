@@ -10,3 +10,5 @@ Both scripts take users input via the CLI you'll be prompted on how to input sea
 run pwd in you command line to print working path
 ex: /Users/dross/Desktop/sei/sandbox/pinwheel/
 
+Author: Deshawn Ross
+
