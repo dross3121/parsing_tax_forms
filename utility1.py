@@ -3,10 +3,10 @@ import requests
 import pprint
 
 
-
+# had to get this idea dowen on paper first refactoring coming soon
 all_data = [] 
 more_pages =True
-# per_page = 200
+per_page = 200
 last_page = 20200
 
 u_input = input('Enter exact Product number ex: Form W-2, Form 1095-C \n')
