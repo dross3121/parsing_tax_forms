@@ -3,7 +3,7 @@ import requests
 import pprint
 
 
-
+# had to get this idea dowen on paper first refactoring coming soon
 all_data = [] 
 more_pages =True
 per_page = 200
